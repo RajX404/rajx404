@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm RAJ (MD Jaraej Alam)
 
-<!--
-**RajX404/rajx404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | Diploma CST Student
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about technology, software development, and building useful digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Diploma in Computer Science & Technology
+- 💻 Learning and building websites and applications
+- 🤖 Interested in AI and modern technologies
+- 🌱 Improving my programming and development skills
+- 🎯 Building projects under the RAJ identity
+
+## 🛠️ Technologies
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Supabase
+
+## 📌 Current Projects
+- RAJ Portfolio
+- NOVA AI Call Assistant
+- Campus Connect
+
+## 🌐 Connect With Me
+- GitHub: https://github.com/rajx404
+
+---
+*Building ideas into reality. — RAJ*
